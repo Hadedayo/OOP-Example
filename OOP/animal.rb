@@ -26,10 +26,3 @@ class Animal < Zoo
   end
 
 end
-
-# #using instance method
-# animal = Animal.new
-# animal.breathe
-#
-# # #using self (class method)
-# Animal.traits

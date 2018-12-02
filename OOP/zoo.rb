@@ -16,9 +16,3 @@ class Zoo
     puts "We sell various artefacts"
   end
 end
-
-# my = Zoo.new
-# my.animals
-# my.staff
-# my.visitors
-# my.giftShop

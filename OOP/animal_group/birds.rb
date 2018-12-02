@@ -22,9 +22,3 @@ module Birds
     end
   end
 end
-
-# flow = Birds::Beak.new
-# draw = Birds::Wings.new
-# flow.birdBeak
-# draw.birdWings
-# flow.feathers
